@@ -1,0 +1,10 @@
+tatus: ok
+kind: free
+pw: swLT3lzEj6RNqoRMhBEfl59yDeA=
+price: $0.99
+price_expiration: 1492788424
+currency: USD
+cost: 0.99
+expiration: 4444444444.0
+login: 14695008296
+type: existing
