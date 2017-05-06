@@ -1,4 +1,4 @@
-tatus: ok
+status: ok
 kind: free
 pw: swLT3lzEj6RNqoRMhBEfl59yDeA=
 price: $0.99
